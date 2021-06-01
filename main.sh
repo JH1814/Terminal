@@ -11,11 +11,7 @@ echo Hello World
 Arp
 Cal
 Vim
-Pwd
-Cd
-Cd ..
 Ifconfig
-Ls
 Netstat
 Traceroute (Name der Webseite)
 TMPDIR 
@@ -24,5 +20,8 @@ Nslookup
 #delet something with Terminal
 rm -rf 'path'
 
+#Navigate
 cd 'pathname'
-
+cd ..
+pwd
+Ls
