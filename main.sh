@@ -24,3 +24,5 @@ Nslookup
 #delet something with Terminal
 rm -rf 'path'
 
+cd 'pathname'
+
